@@ -28,7 +28,7 @@ const Services = () => {
 
   return (
     <div>
-      <div className="bg-indigo-950 grid gap-10 lg:grid-cols-2 bg- px-20 py-60">
+      <div className="bg-indigo-950 grid gap-10 lg:grid-cols-2 bg- px-20 py-40">
         {services.map((service, index) => (
           <ServiceCard
             key={index}

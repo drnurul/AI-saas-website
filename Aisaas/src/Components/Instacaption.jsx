@@ -25,11 +25,11 @@ const Instacaption = () => {
 
   return (
     <div>
-      <div className="bg-custom-gradient px-20 py-60 font-satoshi">
-        <h1 className="font-bold text-7xl text-center text-white leading-snug">
+      <div className="bg-custom-gradient px-20 py-32 font-satoshi">
+        <h1 className="font-bold sm:text-5xl text-4xl text-center text-white leading-snug">
           Free AI Caption Generator for Instagram
         </h1>
-        <p className="text-white text-center text-4xl font-normal py-10">
+        <p className="text-white text-center text-3xl font-normal py-10">
           Craft the perfect Instagram caption in seconds with this AI powered
           generator that analyzes your photo and creates engaging text to get
           more likes and followers.
